@@ -8,7 +8,7 @@ sheet to the same root show directory.
 Here's how it works:
 
 Step 1. Open an empty Nuke scene.
-Step 2. Set the workspace to "Script Editor" or otherwise navigate to the Script Editor in Nuke.
+Step 2. Set the workspace to "Scripting" or otherwise navigate to the Script Editor in Nuke.
 Step 3. In a separate text editor, like Notepad, open CS_Gen_4HOME.py
 Step 4. Select All, and Copy the contents of CS_Gen_4AFX.py
 Step 5. Paste the contents into the Script Editor in Nuke.
