@@ -11,7 +11,7 @@ Here's how it works:
 Open an empty Nuke scene.
 
 ## Step 2. 
-Set the workspace to "Script Editor" or otherwise navigate to the Script Editor in Nuke.
+Set the workspace to "Scripting" or otherwise navigate to the Script Editor in Nuke.
 
 <img src="tut_photos/Script_Editor_Window.png" style="float:right; margin-left:20px;" width="400">
 
