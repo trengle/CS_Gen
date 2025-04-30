@@ -12,6 +12,7 @@ Open an empty Nuke scene.
 
 ## Step 2. 
 Set the workspace to "Script Editor" or otherwise navigate to the Script Editor in Nuke.
+
 <img src="tut_photos/Script_Editor_Window.png" style="float:right; margin-left:20px;" width="400">
 
 ## Step 3. 
@@ -32,6 +33,7 @@ jpg that is output. Ex: My_Contact_Sheet, or Music_Store_CS.
 
 The most important variable, however, is the BASE_DIR, which is the base directory 
 for the desired spot or show. Copy and paste the desired path.
+
 <img src="tut_photos/Most_important.png" style="float:right; margin-left:20px;" width="800">
 
 
